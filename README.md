@@ -1,9 +1,22 @@
 
 
-***Required_Packages***
+**[Flutter version 3.3.1](https://flutter.dev)**
 
-| dependencies | dev_dependencies |
-| :---: | :---: |
-| [dio](https://pub.dev/packages/dio) | [hive_generator](https://pub.dev/packages/hive_generator) |
-| [mockito](https://pub.dev/packages/mockito) |[build_runner](https://pub.dev/packages/build_runner) |
+**[Bloc version 8.1.0](https://pub.dev/packages/bloc)***
 
+
+
+| dependencies | 
+| :---: | 
+| [http](https://pub.dev/packages/http) | 
+| [bloc](https://pub.dev/packages/bloc) |
+| [flutter_bloc](https://pub.dev/packages/flutter_bloc) |
+| [equatable](https://pub.dev/packages/equatable) |
+| [bloc_concurrency](https://pub.dev/packages/bloc_concurrency) |
+
+
+***How to run***
+
+- `flutter run` 
+- `flutter run -d chrome`
+- `flutter run -d linux`
